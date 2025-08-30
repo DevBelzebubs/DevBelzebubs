@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div>  
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+</div>
 
 I am passionate developer with tons of experience with different stack.
  - 🌱 I’m currently learning Golang.
