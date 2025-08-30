@@ -2,7 +2,6 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
- <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 I am passionate developer with some experience on web developing
@@ -11,7 +10,7 @@ I am passionate developer with some experience on web developing
  - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/juan-diego-gabriel-rios-69444a263/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+ <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A university student in their final years of study.
