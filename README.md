@@ -4,7 +4,7 @@
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&color=%2300BFFF&size=24&center=true&vCenter=true&width=800&height=60&lines=System+Engynering;FullStack+web+Developer+SQL+y+NoSQL;Angular+and+React;">
+    <img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&color=%2300BFFF&size=24&center=true&vCenter=true&width=800&height=60&lines=System+Engynering;FullStack+web+Developer;SQL+y+NoSQL;Angular+and+React;">
 </p>
 
 I am passionate developer with tons of experience with different stack.
