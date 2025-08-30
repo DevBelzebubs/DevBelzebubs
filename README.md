@@ -2,6 +2,7 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+ <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 I am passionate developer with some experience on web developing
@@ -61,6 +62,7 @@ I am passionate developer with some experience on web developing
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
