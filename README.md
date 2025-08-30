@@ -9,7 +9,7 @@ I am passionate developer with some experience on web developing
  - 👯 I am available for any help related to these stacks.
  - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
-<a href="https://www.linkedin.com/in/juan-diego-gabriel-rios-69444a263/">
+<a href="https://www.linkedin.com/in/juan-diego-gabriel-rios-69444a263/">Linkedin</a>
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A university student in their final years of study.
