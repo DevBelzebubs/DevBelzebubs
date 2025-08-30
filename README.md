@@ -18,7 +18,7 @@ I am passionate developer with some experience on web developing
 <br>⭐ Besides all that I love playing videogames, sleep(lol), cats, etc.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
 <br>
-Contribution Snake 
+### Contribution Snake 
 <img align="center" src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 <h1 align="left">🧠 Skills Showcase</h1>
 
