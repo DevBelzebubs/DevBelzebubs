@@ -10,7 +10,6 @@ I am passionate developer with some experience on web developing
  - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/juan-diego-gabriel-rios-69444a263/">
- <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A university student in their final years of study.
@@ -18,8 +17,9 @@ I am passionate developer with some experience on web developing
 <br>💫 I’m a full-stack web developer, currently learning React, Next.js and Spring boot.
 <br>⭐ Besides all that I love playing videogames, sleep(lol), cats, etc.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
- <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
- </p>
+<br>
+  ## Contribution Snake 
+<img align="center" src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg">
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕️Languages
@@ -58,6 +58,7 @@ I am passionate developer with some experience on web developing
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
