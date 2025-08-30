@@ -3,7 +3,8 @@
 </div>  
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2>[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)] (https://git.io/typing-svg)</h2>
+
+
 
 I am passionate developer with tons of experience with different stack.
  - 🌱 I’m currently learning Golang.
