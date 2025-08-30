@@ -6,7 +6,15 @@ I am passionate developer with tons of experience with different stack.
 - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubinkhalid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2391469) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mubin_Khalid) 
-
+<h3 align="center">About Me :</h3>  
+ <p>
+ 👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
+<br>🐱 I'm 19 y/o, go by he/him pronouns.
+<br>💫 I’m a front-end web developer, currently learning React, Python and ML/AI.
+<br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
+<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+ <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
+ </p>
 <h1 align="left">🧠 Skills Showcase</h1>
 
 ### ☕️Languages
