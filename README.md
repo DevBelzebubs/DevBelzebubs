@@ -58,6 +58,11 @@ I am passionate developer with some experience on web developing
 ![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
+
+<div align="center">
+    <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
+</div>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
