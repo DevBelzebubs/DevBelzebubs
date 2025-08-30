@@ -4,13 +4,15 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </div>
 
-I am passionate developer with tons of experience with different stack.
+I am passionate developer with some experience on web developing
  - 🌱 I’m currently learning Golang.
  - 👯 I am available for any help related to these stacks.
  - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubinkhalid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2391469) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mubin_Khalid) 
+<a href="https://www.linkedin.com/in/juan-diego-gabriel-rios-69444a263/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a> [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2391469) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Mubin_Khalid) 
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A Sophomore year CSE undergrad at Terna Engineering College.
