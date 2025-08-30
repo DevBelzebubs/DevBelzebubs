@@ -3,9 +3,6 @@
 </div>  
  <br/>
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com font=Fira+Code&color=%2300BFFF&size=24&center=true&vCenter=true&width=800&height=60&lines=System+Engynering;FullStack+web+Developer;SQL+y+NoSQL;Angular+and+React;](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Null3000.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)">
-</p>
 
 I am passionate developer with tons of experience with different stack.
  - 🌱 I’m currently learning Golang.
