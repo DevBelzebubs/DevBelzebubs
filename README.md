@@ -5,7 +5,7 @@
 </div>
 
 I am passionate developer with some experience on web developing
- - 🌱 I’m currently learning QA.
+ - 🌱 I’m currently learning Data Enginering.
  - 👯 I am available for any help related to these stacks.
  - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
