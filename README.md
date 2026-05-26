@@ -13,8 +13,8 @@ I am passionate developer with some experience on web developing
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A university student in their final years of study.
-<br>🐱 I'm 20 y/o, go by he/him pronouns.
-<br>💫 I’m a full-stack web developer, currently learning React, Next.js and Spring boot.
+<br>🐱 I'm 21 y/o, go by he/him pronouns.
+<br>💫 I’m a full-stack web developer, currently learning Deploying, NestJS and Docker.
 <br>⭐ Besides all that I love playing videogames, sleep(lol), cats, etc.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
 <br>
