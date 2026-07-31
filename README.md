@@ -4,7 +4,7 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 </div>
 
-Full Stack Developer focused on building scalable web applications with Angular and Spring Boot. Passionate about software architecture, clean code, data engineering, and creating solutions that solve real-world problems.
+ Full Stack Developer focused on building scalable web applications with Angular and Spring Boot. Passionate about software architecture, clean code, data engineering, and creating solutions that solve real-world problems.
  - 🌱 I’m currently learning Data Enginering.
  - 👯 I am available for any help related to these stacks.
  - 💬 Ask me about anything related to these stacks.
